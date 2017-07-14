@@ -3,6 +3,3 @@ Original tutorial and credit to
 
 ### [Demo](https://react-redux.realworld.io)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/gothinkster/realworld)
 
-
-
-lETS GET THE PARTY STATERD
