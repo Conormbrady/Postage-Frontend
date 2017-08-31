@@ -25,7 +25,7 @@
     "build": "react-scripts build",
     "test": "cross-env PORT=4100 react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    //"predeploy": "npm run build",
+    "predeploy": "npm run build",
     "deploy" : "npm run build&&gh-pages -d build"
   },
   "homepage": "http://connorbrady.github.io/reactivenoder"
