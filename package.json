@@ -28,5 +28,5 @@
     "predeploy": "npm run build",
     "deploy" : "npm run build&&gh-pages -d build"
   },
-  "homepage": "http://myname.github.io/myapp"
+  "homepage": "http://connorbrady.github.io/postagefront-end"
 }
